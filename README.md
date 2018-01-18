@@ -1,6 +1,6 @@
  
 ## About ME
-It's my pleasure to indroduce myself. I'm Hameem from Kerala.Currently, I'm pursing my third year _**Electrical and Electronic Engineering**_ in [MESCE](http://www.mesce.ac.in/) Kuttipuram. I completed my +2 from Devadar Govt H SS Tanur and also done my schooling from [P K M M H S S Edarikode](http://pkmmhss.in/) and [JMHSS Paranekkad](http://www.icbse.com/schools/j-m-h-s-s-parannakkad/32051000633) 
+It's my pleasure to indroduce myself. I'm **Hameem** from **Tirur**.Currently, I'm pursing my third year _**Electrical and Electronic Engineering**_ in [**MESCE**](http://www.mesce.ac.in/) Kuttipuram. I completed my +2 from **Devadar Govt H SS Tanur** and also done my schooling from [**P K M M H S S Edarikode**](http://pkmmhss.in/) and [**JMHSS Paranekkad**](http://www.icbse.com/schools/j-m-h-s-s-parannakkad/32051000633) 
 
 ## Contact
 
