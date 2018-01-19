@@ -29,4 +29,4 @@ The Kerala Startup mission is setting up Fab Labs in the state in collaboration 
 #### First Day - [Introduction to Fab Lab](https://jitheeshk.github.io/mescefablab.github.io/)
 
 #### Second Day - [Introduction to Basic softwares- Autodesk 123D](https://hameemtirur.github.io/software.github.io/)
-#### Third Day  - Introduction to Basic softwares- Adobe illustrator & EasyEDA - Online PCB design & circuit simulator
+#### Third Day  - Introduction to Basic softwares- Adobe illustrator & EasyEDA -                                                                        Online PCB design & circuit simulator
